@@ -1,0 +1,41 @@
+.question{
+    padding: 10px;
+    border: 1px solid rgb(85, 88, 255);
+    border-radius: 8px;
+    background: rgb(85, 88, 255);
+    color: black;
+    
+}
+
+.options{
+    
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+.options:hover{
+    background-color: rgb(187, 180, 253);
+}
+
+
+button{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    
+}
+
+.optionText{
+    
+    
+}
+
+label{
+    display: flex;
+    gap: 10px;
+}

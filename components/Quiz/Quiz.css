@@ -1,0 +1,104 @@
+.full{
+    margin-top: 5px;
+}
+
+h1{
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    padding: 5px;
+    font-size: 30px;
+    font-weight: 700;
+   
+}
+
+.body{
+   padding-left: 20px;
+   padding-right: 20px;
+   
+}
+
+.Question-body{
+    border: 1px solid rgb(85, 88, 255);
+    border-radius: 8px;
+    padding: 30px;
+}
+
+
+
+.currentQuestions{
+    padding: 10px;
+    border: 1px solid rgb(85, 88, 255);
+    border-radius: 8px;
+    background: rgb(85, 88, 255);
+    
+   
+}
+
+.totalQuestions{
+    padding: 10px;
+    border: 1px solid rgb(85, 88, 255);
+    border-radius: 8px;
+    background: rgb(85, 88, 255);
+    
+    
+ }
+
+.questionNo{
+    margin-top: 15px;
+    display: flex;
+    gap: 1000px;
+    
+}
+
+button{
+    margin-top: 12px;
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    width: 120px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+button:hover{
+    background-color: brown;
+}
+
+
+
+
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(85, 88, 255);;
+    background-color: rgb(85, 88, 255);;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.instruct{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+
+.score-btn{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid blanchedalmond;
+    border-radius: 8px;
+    background-color: blanchedalmond;
+}
